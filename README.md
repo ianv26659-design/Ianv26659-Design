@@ -1,16 +1,34 @@
-## Hi there 👋
+# Oi! Eu sou Ian Richard
 
-<!--
-**ianv26659-design/Ianv26659-Design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolvimento de software, desenvolvimento web e banco de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- C
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Python
+- Git e GitHub
+
+## Atualmente estudando
+
+- Programação
+- Banco de Dados
+- Desenvolvimento Web
+- Engenharia de Software
+
+## Projetos
+
+- Site CEFRAN
+- TDE de Matemática Computacional
+- Estudos e exercícios de Banco de Dados
+- Projetos acadêmicos
+
+## Objetivo
+
+Busco desenvolver meus conhecimentos em tecnologia e adquirir experiência profissional na área de TI.
