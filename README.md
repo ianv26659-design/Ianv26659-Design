@@ -10,13 +10,14 @@ Tenho interesse em desenvolvimento de software, desenvolvimento web e banco de d
 - HTML
 - CSS
 - JavaScript
-- PHP
-- MySQL
 - Python
 - Git e GitHub
 
 ## Atualmente estudando
 
+- SQL
+- MySQL
+- PHP
 - Programação
 - Banco de Dados
 - Desenvolvimento Web
