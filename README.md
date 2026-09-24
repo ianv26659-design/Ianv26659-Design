@@ -25,8 +25,8 @@ Tenho interesse em desenvolvimento de software, desenvolvimento web e banco de d
 
 ## Projetos
 
-- Site CEFRAN
-- TDE de Matemática Computacional
+- Site CEFRAN - projeto acadêmico de desenvolvimento web
+- TDE de Matemática Computacional - projeto utilizando python
 - Estudos e exercícios de Banco de Dados
 - Projetos acadêmicos
 
