@@ -2,7 +2,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas
 
-Tenho interesse em desenvolvimento de software, desenvolvimento web e banco de dados.
+Tenho interesse em desenvolvimento de software, desenvolvimento web e banco de dados. Atualmente estou desenvolvendo conhecimentos através da faculdade e de projetos acadêmicos.
 
 ## Tecnologias
 
